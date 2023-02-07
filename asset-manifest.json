@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mmmaming/website.git/static/css/main.073c9b0a.css",
+    "main.js": "/mmmaming/website.git/static/js/main.38f0b596.js",
+    "static/js/787.624cf4fb.chunk.js": "/mmmaming/website.git/static/js/787.624cf4fb.chunk.js",
+    "index.html": "/mmmaming/website.git/index.html",
+    "main.073c9b0a.css.map": "/mmmaming/website.git/static/css/main.073c9b0a.css.map",
+    "main.38f0b596.js.map": "/mmmaming/website.git/static/js/main.38f0b596.js.map",
+    "787.624cf4fb.chunk.js.map": "/mmmaming/website.git/static/js/787.624cf4fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.38f0b596.js"
+  ]
+}
