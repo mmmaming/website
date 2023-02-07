@@ -16,7 +16,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <img src="/images/llo.png" className="App-logo" alt="logo" />
         <p>
-          EEEEE
+          Test Website
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
