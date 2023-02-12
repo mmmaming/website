@@ -6,6 +6,7 @@ import './App.css';
 const logo = process.env.PUBLIC_URL+'/logo192.png';
 
 function App() {
+  console.log("这里是")
   console.log(process.env)
   useEffect(() => {
     axios.get("/x/asd");
@@ -21,7 +22,7 @@ function App() {
         </p>
           测试1
           Learn React
-        </a>
+
       </header>
     </div>
   );

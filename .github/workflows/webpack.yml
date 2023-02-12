@@ -21,6 +21,11 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
+        endpoint: http://www.baidu.com
+        git-secret: ${{secrets.git_secrets}}
+      env:
+        env-endpoint: this is env-endpoint
+        env-git-secret: ${{secrets.git_secrets}}
 
     - name: Build
       run: |
