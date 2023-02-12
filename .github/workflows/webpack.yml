@@ -31,3 +31,4 @@ jobs:
       run: |
         npm install
         echo $(date)
+        npm run deploy
