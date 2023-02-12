@@ -15,12 +15,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <img src="/images/llo.png" className="App-logo" alt="logo" />
         <p>
           Test Website
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-          测试1
+          测试1111111
           Learn React
 
       </header>
