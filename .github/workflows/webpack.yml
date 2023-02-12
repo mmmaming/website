@@ -38,3 +38,12 @@ jobs:
         branch: gh-pages
         folder: build
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: deploy1
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: master
+        folder: build
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: deploy2
+      run: |
+        npm run deploy
